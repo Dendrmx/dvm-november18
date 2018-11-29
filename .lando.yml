@@ -1,0 +1,6 @@
+name: dvm-november-18
+recipe: pantheon
+config:
+  framework: drupal8
+  site: dvm-november18
+  id: c0d8b2a3-88df-446f-83d2-90f5130acb9e
